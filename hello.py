@@ -23,3 +23,6 @@ print(type(x)) # Mostrará la clase de la X actual, declarada antes del print (E
 
 X = str(3) # Las variables son Case-Sensitive, es decir, es diferente una X de una x
 
+miVariablePersonal = "John" # (Camel case) Esta es una manera de declarar una variable para que se lea mejor. Es decir, todas las palabras empiezan en mayúsculas menos la primera palabra.
+MiVariablePersonal = "John" # (Pascal case) Esta es otra manera, todas las palabras empiezan en mayúsculas
+mi_variable_personal = "John" # (Snake case) Esta es otra, todas las palabras se separan mediante guiones bajos.

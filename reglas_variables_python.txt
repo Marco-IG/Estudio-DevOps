@@ -1,6 +1,6 @@
 Las variables en python deben cumplir las siguientes reglas:
 - Se empieza con una letra o con "_" (a, b ,c ,_)
 - No puede comenzar con un número (1, 2, 4...)
-- Solo puede contener carácteres alfanuméricos y barrabaja (A-z, 0-9 y _)
-- Los nombres de variables son Case-Sensitive
-- El nombre de una variable no puede ser una palabra clave de Python (mirar en este link: https://www.w3schools.com/python/python_ref_keywords.asp)
+- Solo puede contener carácteres alfanuméricos y guiones bajos (A-z, 0-9 y _)
+- Los nombres de variables son Case-Sensitive, es decir, distingue entre mayúsculas y minúsculas
+- El nombre de una variable no puede ser una palabra reservada de Python (mirar en este link: https://www.w3schools.com/python/python_ref_keywords.asp)
